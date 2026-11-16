@@ -1,0 +1,13 @@
+# movie file name (lower case, no extension)<TAB>what is said when the movie starts (empty = nothing)
+prologue01	Prologue movie.
+prologue02
+op	
+op2	Opening movie with the theme song.
+title
+timeleapbg
+ending_c	Ending movie with credits.
+ending_f	Ending movie with credits.
+ending_m	Ending movie with credits.
+ending_r	Ending movie with credits.
+ending_s	Ending movie with credits.
+ar	Ending movie with credits.

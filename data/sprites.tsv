@@ -1,0 +1,166 @@
+# sprite base name	outfit and pose (written from the assembled sprites, 2026-10-24)
+CRS_ALA	in a beige off-shoulder jacket, white shirt and red tie, arms at her sides
+CRS_AMA	in a beige off-shoulder jacket, white shirt and red tie, arms at her sides
+CRS_ASA	in a beige off-shoulder jacket, white shirt and red tie, arms at her sides
+CRS_ALB	in a beige off-shoulder jacket, white shirt and red tie, arms folded low
+CRS_AMB	in a beige off-shoulder jacket, white shirt and red tie, arms folded low
+CRS_ASB	in a beige off-shoulder jacket, white shirt and red tie, arms folded low
+CRS_ALC	in a beige off-shoulder jacket and white shirt, one hand gripping her red tie
+CRS_AMC	in a beige off-shoulder jacket and white shirt, one hand gripping her red tie
+CRS_ASC	in a beige off-shoulder jacket and white shirt, one hand gripping her red tie
+CRS_BLA	in a white lab coat, white shirt and red tie, arms at her sides
+CRS_BMA	in a white lab coat, white shirt and red tie, arms at her sides
+CRS_BSA	in a white lab coat, white shirt and red tie, arms at her sides
+CRS_BLB	in a white lab coat, white shirt and red tie, arms folded low
+CRS_BMB	in a white lab coat, white shirt and red tie, arms folded low
+CRS_BSB	in a white lab coat, white shirt and red tie, arms folded low
+CRS_BLC	in a white lab coat and white shirt, one hand gripping her red tie
+CRS_BMC	in a white lab coat and white shirt, one hand gripping her red tie
+CRS_BSC	in a white lab coat and white shirt, one hand gripping her red tie
+DAR_ALA	in an orange cap, glasses and a green T-shirt, arms folded
+DAR_AMA	in an orange cap, glasses and a green T-shirt, arms folded
+DAR_ASA	in an orange cap, glasses and a green T-shirt, arms folded
+DAR_ALB	in an orange cap, glasses and a green T-shirt, arms down at his sides
+DAR_AMB	in an orange cap, glasses and a green T-shirt, arms down at his sides
+DAR_ASB	in an orange cap, glasses and a green T-shirt, arms down at his sides
+FEI_ALA	in a maid outfit with cat ears and black vest, hands at her waist
+FEI_AMA	in a maid outfit with cat ears and black vest, hands at her waist
+FEI_ASA	in a maid outfit with cat ears and black vest, hands at her waist
+FEI_ALB	in a maid outfit with cat ears, hands clasped at her chest
+FEI_AMB	in a maid outfit with cat ears, hands clasped at her chest
+FEI_ASB	in a maid outfit with cat ears, hands clasped at her chest
+FEI_ALC	in a maid outfit with cat ears, arms held straight down in front
+FEI_AMC	in a maid outfit with cat ears, arms held straight down in front
+FEI_ASC	in a maid outfit with cat ears, arms held straight down in front
+FEI_BLA	in a maid outfit with cat ears and black vest, hands at her waist
+FEI_BMA	in a maid outfit with cat ears and black vest, hands at her waist
+FEI_BSA	in a maid outfit with cat ears and black vest, hands at her waist
+FEI_BLB	in a maid outfit with cat ears, hands clasped at her chest
+FEI_BMB	in a maid outfit with cat ears, hands clasped at her chest
+FEI_BSB	in a maid outfit with cat ears, hands clasped at her chest
+FEI_BLC	in a maid outfit with cat ears, arms held straight down in front
+FEI_BMC	in a maid outfit with cat ears, arms held straight down in front
+FEI_BSC	in a maid outfit with cat ears, arms held straight down in front
+FEI_CLA	in a yellow ruffled off-shoulder dress and black headband, arms at her sides
+FEI_CMA	in a yellow ruffled off-shoulder dress and black headband, arms at her sides
+FEI_CSA	in a yellow ruffled off-shoulder dress and black headband, arms at her sides
+FEI_CLB	in a yellow ruffled off-shoulder dress, hands clasped at her chest
+FEI_CMB	in a yellow ruffled off-shoulder dress, hands clasped at her chest
+FEI_CSB	in a yellow ruffled off-shoulder dress, hands clasped at her chest
+FEI_CLC	in a yellow ruffled off-shoulder dress, arms held straight down in front
+FEI_CMC	in a yellow ruffled off-shoulder dress, arms held straight down in front
+FEI_CSC	in a yellow ruffled off-shoulder dress, arms held straight down in front
+FEI_DLA	in a yellow ruffled off-shoulder dress with cat ears, arms at her sides
+FEI_DMA	in a yellow ruffled off-shoulder dress with cat ears, arms at her sides
+FEI_DSA	in a yellow ruffled off-shoulder dress with cat ears, arms at her sides
+FEI_DLB	in a yellow ruffled off-shoulder dress with cat ears, hands clasped at her chest
+FEI_DMB	in a yellow ruffled off-shoulder dress with cat ears, hands clasped at her chest
+FEI_DSB	in a yellow ruffled off-shoulder dress with cat ears, hands clasped at her chest
+FEI_DLC	in a yellow ruffled dress with cat ears, arms held straight down in front
+FEI_DMC	in a yellow ruffled dress with cat ears, arms held straight down in front
+FEI_DSC	in a yellow ruffled dress with cat ears, arms held straight down in front
+FPP_ALA	in a white shirt, dark brown vest and tie, with sleeve armbands
+FPP_AMA	in a white shirt, dark brown vest and tie, with sleeve armbands
+FPP_ASA	in a white shirt, dark brown vest and tie, with sleeve armbands
+MAY_ALA	in a light blue dress and floppy sun hat, arms at her sides
+MAY_AMA	in a light blue dress and floppy sun hat, arms at her sides
+MAY_ASA	in a light blue dress and floppy sun hat, arms at her sides
+MAY_ALB	in a light blue dress and floppy sun hat, one hand at her chin
+MAY_AMB	in a light blue dress and floppy sun hat, one hand at her chin
+MAY_ASB	in a light blue dress and floppy sun hat, one hand at her chin
+MAY_ALC	in a light blue dress and floppy sun hat, both hands clutching her collar
+MAY_AMC	in a light blue dress and floppy sun hat, both hands clutching her collar
+MAY_ASC	in a light blue dress and floppy sun hat, both hands clutching her collar
+MAY_BLA	in a maid outfit with cat ears and blonde ponytail, arms at her sides
+MAY_BMA	in a maid outfit with cat ears and blonde ponytail, arms at her sides
+MAY_BSA	in a maid outfit with cat ears and blonde ponytail, arms at her sides
+MAY_BLB	in a maid outfit with cat ears and blonde ponytail, one hand at her throat
+MAY_BMB	in a maid outfit with cat ears and blonde ponytail, one hand at her throat
+MAY_BSB	in a maid outfit with cat ears and blonde ponytail, one hand at her throat
+MAY_BLC	in a maid outfit with cat ears and blonde ponytail, both fists at her chest
+MAY_BMC	in a maid outfit with cat ears and blonde ponytail, both fists at her chest
+MAY_BSC	in a maid outfit with cat ears and blonde ponytail, both fists at her chest
+MAY_CLA	in a light blue dress with dark trim, no hat, arms at her sides
+MAY_CMA	in a light blue dress with dark trim, no hat, arms at her sides
+MAY_CSA	in a light blue dress with dark trim, no hat, arms at her sides
+MAY_CLB	in a light blue dress with dark trim, no hat, one hand at her chin
+MAY_CMB	in a light blue dress with dark trim, no hat, one hand at her chin
+MAY_CSB	in a light blue dress with dark trim, no hat, one hand at her chin
+MAY_CLC	in a light blue dress with dark trim, no hat, both hands clutching her collar
+MAY_CMC	in a light blue dress with dark trim, no hat, both hands clutching her collar
+MAY_CSC	in a light blue dress with dark trim, no hat, both hands clutching her collar
+MOE_ALA	in glasses and a white blouse with black ribbon tie, holding up a flip phone
+MOE_AMA	in glasses and a white blouse with black ribbon tie, holding up a flip phone
+MOE_ASA	in glasses and a white blouse with black ribbon tie, holding up a flip phone
+MOE_ALB	in glasses and a white blouse with black ribbon tie, arms at her sides
+MOE_AMB	in glasses and a white blouse with black ribbon tie, arms at her sides
+MOE_ASB	in glasses and a white blouse with black ribbon tie, arms at her sides
+MOE_BLA	in a black zip-up bodysuit and black gloves, holding up a flip phone
+MOE_BMA	in a black zip-up bodysuit and black gloves, holding up a flip phone
+MOE_BSA	in a black zip-up bodysuit and black gloves, holding up a flip phone
+MOE_BLB	in a black zip-up bodysuit, hair in a low ponytail, arms at her sides
+MOE_BMB	in a black zip-up bodysuit, hair in a low ponytail, arms at her sides
+MOE_BSB	in a black zip-up bodysuit, hair in a low ponytail, arms at her sides
+NAE_ALA	in a brown long-sleeved top and pink apron, with a cord strap across her chest
+NAE_AMA	in a brown long-sleeved top and pink apron, with a cord strap across her chest
+NAE_ASA	in a brown long-sleeved top and pink apron, with a cord strap across her chest
+NAK_ALA	in a brown tweed jacket, white shirt and dark striped cravat
+NAK_AMA	in a brown tweed jacket, white shirt and dark striped cravat
+NAK_ASA	in a brown tweed jacket, white shirt and dark striped cravat
+RUK_ALA	in a white kimono and red hakama, sword in sash, holding out her sleeves
+RUK_AMA	in a white kimono and red hakama, sword in sash, holding out her sleeves
+RUK_ASA	in a white kimono and red hakama, sword in sash, holding out her sleeves
+RUK_ALB	in a white kimono, hands raised to the collar, holding a sword diagonally
+RUK_AMB	in a white kimono, hands raised to the collar, holding a sword diagonally
+RUK_ASB	in a white kimono, hands raised to the collar, holding a sword diagonally
+RUK_BLA	in a white kimono and red hakama, no sword, holding out her sleeves
+RUK_BMA	in a white kimono and red hakama, no sword, holding out her sleeves
+RUK_BSA	in a white kimono and red hakama, no sword, holding out her sleeves
+RUK_BLB	in a white kimono, no sword, both hands raised to the collar
+RUK_BMB	in a white kimono, no sword, both hands raised to the collar
+RUK_BSB	in a white kimono, no sword, both hands raised to the collar
+RUK_CLA	in a dark brown short-sleeved dress with a white ribbon bow, one fist raised
+RUK_CMA	in a dark brown short-sleeved dress with a white ribbon bow, one fist raised
+RUK_CSA	in a dark brown short-sleeved dress with a white ribbon bow, one fist raised
+RUK_CLB	in a dark brown short-sleeved dress with a white ribbon bow, hands at the neckline
+RUK_CMB	in a dark brown short-sleeved dress with a white ribbon bow, hands at the neckline
+RUK_CSB	in a dark brown short-sleeved dress with a white ribbon bow, hands at the neckline
+RUK_DLA	in a pink off-shoulder top with a red bow and yellow badge, one fist raised
+RUK_DMA	in a pink off-shoulder top with a red bow and yellow badge, one fist raised
+RUK_DSA	in a pink off-shoulder top with a red bow and yellow badge, one fist raised
+RUK_DLB	in a pink off-shoulder top with a red bow and badge, hands at the neckline
+RUK_DMB	in a pink off-shoulder top with a red bow and badge, hands at the neckline
+RUK_DSB	in a pink off-shoulder top with a red bow and badge, hands at the neckline
+SDO_ALA	in an open black leather coat over a bare chest, with a chain padlock necklace
+SDO_AMA	in an open black leather coat over a bare chest, with a chain padlock necklace
+SDO_ASA	in an open black leather coat over a bare chest, with a chain padlock necklace
+SDO_BLA	in a black knit cap and open black leather coat, with a chain padlock necklace
+SDO_BMA	in a black knit cap and open black leather coat, with a chain padlock necklace
+SDO_BSA	in a black knit cap and open black leather coat, with a chain padlock necklace
+SDO_CLA	in tinted sunglasses and an open black leather coat, with a chain padlock necklace
+SDO_CMA	in tinted sunglasses and an open black leather coat, with a chain padlock necklace
+SDO_CSA	in tinted sunglasses and an open black leather coat, with a chain padlock necklace
+SDO_DLA	in a black knit cap, tinted sunglasses and an open black leather coat
+SDO_DMA	in a black knit cap, tinted sunglasses and an open black leather coat
+SDO_DSA	in a black knit cap, tinted sunglasses and an open black leather coat
+SUZ_ALA	in a dark teal zip-up track jacket, braided pigtails, one arm raised behind her head
+SUZ_AMA	in a dark teal zip-up track jacket, braided pigtails, one arm raised behind her head
+SUZ_ASA	in a dark teal zip-up track jacket, braided pigtails, one arm raised behind her head
+SUZ_ALB	in a dark teal zip-up track jacket, braided pigtails, hands on her hips
+SUZ_AMB	in a dark teal zip-up track jacket, braided pigtails, hands on her hips
+SUZ_ASB	in a dark teal zip-up track jacket, braided pigtails, hands on her hips
+SUZ_BLA	in a camouflage shirt and brown tactical vest, one arm raised behind her head
+SUZ_BMA	in a camouflage shirt and brown tactical vest, one arm raised behind her head
+SUZ_BSA	in a camouflage shirt and brown tactical vest, one arm raised behind her head
+SUZ_BLB	in a camouflage shirt, tactical vest and armband, arms angled at her sides
+SUZ_BMB	in a camouflage shirt, tactical vest and armband, arms angled at her sides
+SUZ_BSB	in a camouflage shirt, tactical vest and armband, arms angled at her sides
+TEN_ALA	in a yellow T-shirt and plain green apron, arms at his sides
+TEN_AMA	in a yellow T-shirt and plain green apron, arms at his sides
+TEN_ASA	in a yellow T-shirt and plain green apron, arms at his sides
+TEN_BLA	in a yellow T-shirt and green apron with a cartoon badge on the front
+TEN_BMA	in a yellow T-shirt and green apron with a cartoon badge on the front
+TEN_BSA	in a yellow T-shirt and green apron with a cartoon badge on the front
+URP_ALA	in glasses and a plain white kimono-style robe, arms at his sides
+URP_AMA	in glasses and a plain white kimono-style robe, arms at his sides
+URP_ASA	in glasses and a plain white kimono-style robe, arms at his sides

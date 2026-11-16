@@ -1,0 +1,17 @@
+# Copyrighted game material and third-party reference: never commit or ship
+/re/
+
+# Build output
+build/
+dist/
+out/
+*.pdb
+*.ilk
+*.obj
+
+__pycache__/
+
+# Playtest captures (game screenshots) and their scratch output
+tools/playtest/shots/
+tools/playtest/*.png
+tools/playtest/cap_err.txt

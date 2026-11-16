@@ -1,0 +1,21 @@
+# op.bk2 (opening, title screen idle) - start_ms<TAB>text. The opening has
+# no translated lyrics; this describes what is shown, from a 2 fps in-game
+# capture (tools/playtest/shots/op, re/op_sheet.png) and OCR of its name cards.
+0	The opening song begins. A white streak of light crosses a black screen.
+3000	Empty, sunlit Akihabara streets glide past in pale colours, the title screen's quotes scrolling along the bottom.
+24000	The STEINS;GATE logo burns onto a dark brown background.
+28000	A white line sketch of Okabe's face over drafting circles.
+32000	A name card, Hashida Itaru: Daru with folded arms in front of a yellow Akihabara Station.
+36000	Makise Kurisu beside a huge red marker; then Shiina Mayuri's face in sliced panels.
+44000	Amane Suzuha as a silhouette on a green panel of clock faces.
+48000	Monochrome gears and clock faces turn.
+50000	A name card, Faris NyanNyan; then Urushibara Luka; then Kiryu Moeka on the screen of a pink flip phone.
+59000	A monochrome collage of the heroines' faces.
+63000	The Earth from orbit, a light glowing over Japan, streams of binary digits.
+67000	Kurisu leans close, looking down.
+71000	Flickering fragments of lab footage and an internet address.
+75000	A green, gooey, twisted object on a floor.
+79000	The whole cast together in bright colour: Kurisu, Moeka, Okabe, Mayuri and Daru.
+83000	Okabe in his white lab coat walks down an empty Akihabara street.
+87000	A grey cityscape; a clock reads 15:26:40.
+92000	Inside the dark Braun Tube workshop, rows of old television sets, one screen glowing green.
